@@ -93,6 +93,7 @@ The dashboard includes:
 | Unique Customers | 1,000+ |
 | Average Revenue per Order | $1.1K |
 
+
 ---
 
 ## Dashboard Screenshots
@@ -112,6 +113,8 @@ The dashboard includes:
 ### Dashboard - 2025
 
 ![Dashboard 2025](Screenshots/dashboard_2025.png)
+
+![pbix file](decode_labs_ecommernce_dashboard)
 
 ---
 
