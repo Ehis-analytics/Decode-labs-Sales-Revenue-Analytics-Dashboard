@@ -116,7 +116,9 @@ The dashboard includes:
 
 ## Project Files
 
-- [Power BI Dashboard File](decode_labs_ecommerce_dashboard.pbix)
+## Project Files
+
+- [Power BI Dashboard File](./decode%20labs%20ecommerce%20dashboard.pbix)
 
 ---
 
