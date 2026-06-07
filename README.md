@@ -1,5 +1,3 @@
-# Decode-labs-Sales-Revenue-Analytics-Dashboard
-
 # Decode Labs Project 4: Power BI Sales & Revenue Analytics Dashboard
 
 ## Project Overview
