@@ -114,7 +114,9 @@ The dashboard includes:
 
 ![Dashboard 2025](Screenshots/dashboard_2025.png)
 
-![pbix file](decode_labs_ecommernce_dashboard)
+## Project Files
+
+[Power BI Dashboard File](decode_labs_ecommerce_dashboard.pbix)
 
 ---
 
